@@ -6,6 +6,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Math
 |  |
