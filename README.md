@@ -25,11 +25,13 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
 |  |
 | ------- |
