@@ -35,4 +35,9 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | ------- |
 | [0007-reverse-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0263-ugly-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
