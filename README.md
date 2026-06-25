@@ -34,4 +34,5 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0007-reverse-integer) |
+| [0263-ugly-number](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
