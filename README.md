@@ -12,6 +12,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
@@ -22,10 +23,12 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 ## Array
@@ -61,4 +64,8 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
