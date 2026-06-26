@@ -74,4 +74,12 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0032-longest-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
