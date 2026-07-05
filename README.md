@@ -19,6 +19,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0067-add-binary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
+| [0848-shifting-letters](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0848-shifting-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
@@ -47,6 +48,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0001-two-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0848-shifting-letters](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0848-shifting-letters) |
 | [0948-bag-of-tokens](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
+| [0848-shifting-letters](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0848-shifting-letters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
