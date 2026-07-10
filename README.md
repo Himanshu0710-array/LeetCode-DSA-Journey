@@ -22,6 +22,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0848-shifting-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1288-remove-covered-intervals](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
