@@ -61,6 +61,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1331-rank-transform-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
