@@ -8,6 +8,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
@@ -54,6 +56,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0739-daily-temperatures) |
@@ -90,6 +93,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
 | [0948-bag-of-tokens](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1288-remove-covered-intervals) |
