@@ -56,6 +56,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
@@ -114,6 +115,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
@@ -137,6 +139,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
 | [0948-bag-of-tokens](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0948-bag-of-tokens) |
