@@ -174,4 +174,8 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
