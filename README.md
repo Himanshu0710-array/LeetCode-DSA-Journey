@@ -60,6 +60,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0848-shifting-letters](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0848-shifting-letters) |
 | [0948-bag-of-tokens](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0948-bag-of-tokens) |
@@ -108,6 +109,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0848-shifting-letters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
