@@ -58,6 +58,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0724-find-pivot-index) |
@@ -167,6 +168,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -183,4 +185,16 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0176-second-highest-salary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0178-rank-scores) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
