@@ -89,6 +89,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 | [2739-total-distance-traveled](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2739-total-distance-traveled) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
