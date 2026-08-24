@@ -10,7 +10,7 @@ public:
                 check.push_back(c);
             }
         }
-        reverse(check.begin(),check.end());
+        // reverse(check.begin(),check.end());
         int left = 0;
         int right = check.size() - 1;
         while(left <= right){
