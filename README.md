@@ -20,6 +20,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0012-integer-to-roman](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
@@ -126,6 +127,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
