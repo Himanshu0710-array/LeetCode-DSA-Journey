@@ -59,6 +59,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0001-two-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
@@ -132,6 +133,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
 | ------- |
