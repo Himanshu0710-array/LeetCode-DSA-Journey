@@ -13,6 +13,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3819-rotate-non-negative-elements) |
