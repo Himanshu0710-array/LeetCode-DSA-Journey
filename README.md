@@ -104,6 +104,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 | [2739-total-distance-traveled](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2739-total-distance-traveled) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1331-rank-transform-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
