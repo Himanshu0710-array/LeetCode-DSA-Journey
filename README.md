@@ -28,6 +28,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0125-valid-palindrome](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0848-shifting-letters) |
@@ -101,6 +102,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0012-integer-to-roman](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0263-ugly-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
