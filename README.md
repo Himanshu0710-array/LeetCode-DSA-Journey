@@ -33,6 +33,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -224,4 +225,8 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
