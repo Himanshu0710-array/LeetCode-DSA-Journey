@@ -98,6 +98,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0263-ugly-number](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0263-ugly-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2739-total-distance-traveled](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2739-total-distance-traveled) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
