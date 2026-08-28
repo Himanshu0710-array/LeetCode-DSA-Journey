@@ -95,6 +95,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1331-rank-transform-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1534-count-good-triplets](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -204,6 +205,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1288-remove-covered-intervals](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3731-find-missing-elements) |
