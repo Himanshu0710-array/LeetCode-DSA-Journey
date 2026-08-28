@@ -37,6 +37,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0848-shifting-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1507-reformat-date](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1507-reformat-date) |
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
