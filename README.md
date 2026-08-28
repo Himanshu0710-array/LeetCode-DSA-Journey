@@ -9,6 +9,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0001-two-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
+| [0575-distribute-candies](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
+| [0575-distribute-candies](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0739-daily-temperatures) |
