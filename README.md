@@ -253,6 +253,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0177-nth-highest-salary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Breadth-First Search
 |  |
 | ------- |
