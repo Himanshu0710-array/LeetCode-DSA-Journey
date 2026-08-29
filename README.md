@@ -254,6 +254,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0178-rank-scores](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0182-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0511-game-play-analysis-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Breadth-First Search
 |  |
