@@ -109,6 +109,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3731-find-missing-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0067-add-binary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -272,4 +274,5 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 <!---LeetCode Topics End-->
