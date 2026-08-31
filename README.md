@@ -14,6 +14,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -111,6 +112,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -179,6 +181,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [0948-bag-of-tokens](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [2540-minimum-common-value](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
