@@ -185,6 +185,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
