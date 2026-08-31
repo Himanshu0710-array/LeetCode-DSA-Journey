@@ -101,6 +101,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1534-count-good-triplets](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1572-matrix-diagonal-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -273,6 +274,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0200-number-of-islands) |
+| [1572-matrix-diagonal-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 ## Game Theory
 |  |
 | ------- |
