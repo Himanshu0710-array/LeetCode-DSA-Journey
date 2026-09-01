@@ -75,6 +75,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
+| [0566-reshape-the-matrix](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
@@ -286,6 +288,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0200-number-of-islands) |
+| [0566-reshape-the-matrix](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 ## Game Theory
 |  |
