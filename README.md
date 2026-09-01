@@ -36,6 +36,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0168-excel-sheet-column-title](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0344-reverse-string) |
+| [0551-student-attendance-record-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0848-shifting-letters) |
