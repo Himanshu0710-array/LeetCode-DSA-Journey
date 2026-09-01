@@ -107,6 +107,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0948-bag-of-tokens](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
