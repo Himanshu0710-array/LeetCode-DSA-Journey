@@ -77,6 +77,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0067-add-binary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2739-total-distance-traveled](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2739-total-distance-traveled) |
@@ -112,6 +113,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1572-matrix-diagonal-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
