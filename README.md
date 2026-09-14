@@ -143,6 +143,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0168-excel-sheet-column-title](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0263-ugly-number) |
+| [0836-rectangle-overlap](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
@@ -309,4 +310,8 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
