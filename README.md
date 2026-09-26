@@ -14,6 +14,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0645-set-mismatch](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1507-reformat-date](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1507-reformat-date) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -115,6 +117,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1572-matrix-diagonal-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
