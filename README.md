@@ -45,6 +45,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0848-shifting-letters](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0848-shifting-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1507-reformat-date](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1507-reformat-date) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
@@ -74,6 +75,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0739-daily-temperatures](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -319,4 +321,8 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
