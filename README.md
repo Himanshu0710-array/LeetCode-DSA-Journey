@@ -47,6 +47,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1507-reformat-date](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1507-reformat-date) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -76,6 +77,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -325,4 +327,5 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
