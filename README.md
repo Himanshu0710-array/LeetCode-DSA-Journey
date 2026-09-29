@@ -55,6 +55,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [2390-removing-stars-from-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3582-generate-tag-for-video-caption](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3582-generate-tag-for-video-caption) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -90,6 +91,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2739-total-distance-traveled](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2739-total-distance-traveled) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3582-generate-tag-for-video-caption) |
 | [3819-rotate-non-negative-elements](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3819-rotate-non-negative-elements) |
 ## Array
