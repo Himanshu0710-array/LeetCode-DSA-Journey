@@ -31,6 +31,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0125-valid-palindrome) |
@@ -73,6 +74,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
@@ -330,6 +332,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
