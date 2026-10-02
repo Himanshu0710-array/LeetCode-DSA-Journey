@@ -146,6 +146,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3819-rotate-non-negative-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
