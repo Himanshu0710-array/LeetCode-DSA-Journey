@@ -44,6 +44,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0848-shifting-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -78,6 +79,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0032-longest-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -262,6 +264,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0948-bag-of-tokens) |
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -335,6 +338,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
