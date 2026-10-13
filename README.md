@@ -144,6 +144,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3819-rotate-non-negative-elements) |
@@ -255,6 +256,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1927-sum-game](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
