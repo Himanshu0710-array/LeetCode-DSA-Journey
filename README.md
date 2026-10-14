@@ -137,6 +137,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [2540-minimum-common-value](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | ------- |
 | [1534-count-good-triplets](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1534-count-good-triplets) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
