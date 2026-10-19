@@ -130,6 +130,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -256,6 +257,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [1331-rank-transform-of-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -291,6 +293,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/2540-minimum-common-value) |
 ## Binary Tree
