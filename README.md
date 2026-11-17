@@ -8,6 +8,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0575-distribute-candies](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -31,6 +32,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0067-add-binary) |
@@ -159,6 +161,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | ------- |
 | [0007-reverse-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0171-excel-sheet-column-number) |
