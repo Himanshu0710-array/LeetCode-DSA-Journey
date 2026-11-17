@@ -106,6 +106,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode solutions and DSA practice problems solved during my jo
 | [0007-reverse-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Himanshu0710-array/LeetCode-DSA-Journey/tree/master/0171-excel-sheet-column-number) |
